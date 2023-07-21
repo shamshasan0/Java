@@ -9,7 +9,7 @@ public class arrayListOrganizer {
     private String[] list;
     int currentSize;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { // MAIN METHOD
 
         arrayListOrganizer gameList = new arrayListOrganizer(); // CREATING AN INSTANCE OF THE CLASS
 
