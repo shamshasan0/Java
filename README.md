@@ -11,4 +11,7 @@
 
 - A: If one was to use this program to keep track of games that they love, they could sort in other ways other than alphabetical by slightly manipulating the bubble sort conditions - yet keeping everything else the same. Anyone looking for an organizational program may find alphabetical ordered lists or other sorted lists to be of use. Keep in mind that this program is not limited to video games, but can be used to sort things of any nature, just as long as string type is preserved for string lexicographic comparisons.
 
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+
 > Thanks for reading!
