@@ -9,7 +9,13 @@
 
 - Q: What is the purpose of a program such as this?
 
-- A: If one was to use this program to keep track of games that they love, they could sort in other ways other than alphabetical by slightly manipulating the bubble sort conditions - yet keeping everything else the same. Anyone looking for an organizational program may find alphabetical ordered lists or other sorted lists to be of use. Keep in mind that this program is not limited to video games, but can be used to sort things of any nature, just as long as string type is preserved for string lexicographic comparisons.
+- A: If one is to use this program to keep track of games that they love, they could sort in other ways other than lexicographical by slightly manipulating the conditions in the bubble sort method - yet keeping everything else the same. Not only can you add elements of type String to the list, but you can also utilize the other methods to remove and get elements at specified positions. Anyone looking for an organizational program may find alphabetical ordered lists or other sorted lists to be of use. Keep in mind that this program is not limited to video games, but can be used to sort things of any nature, just as long as string type is preserved for string lexicographic comparisons.
+
+Output:
+
+<img width="1322" alt="Screenshot 2023-08-17 at 3 35 31 PM" src="https://github.com/shamshasan0/Java/assets/105460072/6a8a1414-2938-4314-bc8e-27393c37a4a0">
+
+
 
  Time Complexity: O(n^2)
  
